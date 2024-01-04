@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shoeproduct/static/css/main.27d21cbe.css",
+    "main.js": "/shoeproduct/static/js/main.67910dbf.js",
+    "static/js/787.092224b8.chunk.js": "/shoeproduct/static/js/787.092224b8.chunk.js",
+    "static/media/image-product-2.jpg": "/shoeproduct/static/media/image-product-2.c8bb0aaccecdebb16596.jpg",
+    "static/media/image-product-1.jpg": "/shoeproduct/static/media/image-product-1.520cc50bd13955f55cb2.jpg",
+    "static/media/image-product-3.jpg": "/shoeproduct/static/media/image-product-3.af5c71ba9ffcc0b8b54d.jpg",
+    "static/media/image-product-4.jpg": "/shoeproduct/static/media/image-product-4.9962862ef3eff6d65e5b.jpg",
+    "index.html": "/shoeproduct/index.html",
+    "static/media/icon-cart.svg": "/shoeproduct/static/media/icon-cart.b7f75d6e2cdaf801980a8baec7b69074.svg",
+    "static/media/icon-plus.svg": "/shoeproduct/static/media/icon-plus.b297868c5f938612f4f099f9f9d73aea.svg",
+    "static/media/icon-minus.svg": "/shoeproduct/static/media/icon-minus.f5073aa8273785ecf6b7811630782736.svg",
+    "static/media/icon-previous.svg": "/shoeproduct/static/media/icon-previous.80616402c611cc0a6651d0b751da8a9b.svg",
+    "static/media/icon-next.svg": "/shoeproduct/static/media/icon-next.9621183a551a9985b4bd7536c9a69c66.svg",
+    "main.27d21cbe.css.map": "/shoeproduct/static/css/main.27d21cbe.css.map",
+    "main.67910dbf.js.map": "/shoeproduct/static/js/main.67910dbf.js.map",
+    "787.092224b8.chunk.js.map": "/shoeproduct/static/js/787.092224b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27d21cbe.css",
+    "static/js/main.67910dbf.js"
+  ]
+}
