@@ -1,0 +1,100 @@
+.img-preview {
+  cursor: pointer;
+}
+
+.img-details .title {
+  color: hsl(26, 100%, 55%) !important;
+  font-size: 0.8rem !important;
+}
+
+.img1 img:hover {
+  border: 1px solid hsl(26, 100%, 55%);
+}
+
+.img1 img {
+  position: relative;
+}
+
+.img-overlay {
+  position: absolute;
+  background-color: hsla(136, 100%, 97%, 0.678);
+  width: 90px;
+  height: 90px;
+  z-index: 1;
+  border: 1px solid hsl(26, 100%, 55%);
+  border-radius: 6px;
+}
+.product {
+  max-width: 1100px !important;
+  margin: 0 auto;
+}
+.price .h5 {
+  background-color: hsl(25, 100%, 94%);
+  color: hsl(26, 100%, 55%) !important;
+  font-size: 0.9rem !important;
+  padding: 0.4rem 0.6rem;
+  border-radius: 8px;
+}
+
+.text-underline {
+  text-decoration: line-through;
+  font-size: 0.9rem;
+  font-family: "Kumbh Sans", sans-serif;
+
+  font-weight: 400;
+}
+
+.btn1 .groupedbutton button {
+  background-color: hsl(223, 64%, 98%) !important;
+  border: none !important;
+  color: black;
+  outline: none !important;
+  padding: 0.6rem 1.4rem;
+}
+
+.btn2 button {
+  background-color: hsl(26, 100%, 55%) !important;
+  border: none;
+}
+
+.btn2 button span img {
+  color: white;
+  margin-top: -7px;
+  margin-right: 8px;
+}
+
+.img-preview {
+  position: relative;
+}
+
+.next,
+.prev {
+  position: absolute;
+  background-color: white;
+  border-radius: 50%;
+  padding: 9px 15px;
+}
+
+.next {
+  top: 50%;
+  right: 0;
+  transform: translate(-50%, 0);
+}
+
+.prev {
+  top: 50%;
+  left: 0;
+  transform: translate(50%, 0);
+}
+
+@media (min-width: 767px) and (max-width: 996px) {
+  .product {
+    max-width: 600px !important;
+  }
+}
+
+@media only screen and (max-width: 996px) {
+  .img1 {
+    width: 150px !important;
+  }
+}
